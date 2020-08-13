@@ -1,0 +1,54 @@
+curso de flutter
+
+Git professor 
+https://github.com/alura-cursos/flutter-persistencia-interna/tree/aula-5
+
+
+- instalar o flutter
+https://flutter.dev/docs/get-started/install/linux
+
+- Instalando o Android Studio e Android SDK
+	https://developer.android.com/studio
+	https://developer.android.com/studio/install
+
+- executar android studio 
+	run studio.sh
+
+- instalar plugin do flutter no vscode
+
+
+- No android studio -> configure -> AVD Maneeger -> Seguir passo para escolher um celular para emular.
+- No android studio -> configure -> SDK Maneeger -> Instalar API 28
+
+
+-- Iniciar um projeto flutter
+flutter create bytebank_persist
+
+
+
+Mais sobre rotas
+https://flutter.dev/docs/cookbook/navigation/named-routes
+
+
+Mais sobre formatação no DART
+https://dart.dev/guides/language/effective-dart/style
+
+
+Tarafas comuns
+https://flutter.dev/docs/cookbook
+
+-- Atalhos
+stless -> StatelessWidget
+
+
+-- dependências
+https://dart.dev/tools/pub/dependencies
+
+-- atualizar dependencias
+flutter packages get
+OU
+flutter pub get
+
+
+-- SQlite
+https://github.com/tekartik/sqflite/blob/master/sqflite/README.md
