@@ -52,3 +52,16 @@ flutter pub get
 
 -- SQlite
 https://github.com/tekartik/sqflite/blob/master/sqflite/README.md
+
+
+Compartilhar Local Host Ngrock
+https://cursos.alura.com.br/como-compartilhar-seu-localhost-de-forma-simplificada-com-o-ngrok-c7
+
+
+---- Tratar JSON
+https://flutter.dev/docs/development/data-and-backend/json
+
+
+
+------TESTES
+https://flutter.dev/docs/testing
